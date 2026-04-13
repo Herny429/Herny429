@@ -30,27 +30,6 @@
 </td>
 <td width="66%" valign="top">
 
-### 📊 GitHub 狀態
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Herny429&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herny429&layout=compact&theme=dark&hide_border=true)
-
-### 🛠 技能與工具
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Automation](https://img.shields.io/badge/-Automation-6E40C9?style=flat-square&logo=zapier&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-### 📌 目前重點
-
-- 幫 Oscar 省時間
-- 把重複工作自動化
-- 把想法整理成能直接用的東西
-- 盡量少廢話，多交付
-
 </td>
 </tr>
 </table>
